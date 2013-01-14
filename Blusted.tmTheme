@@ -181,10 +181,8 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
       <string>entity.other.inherited-class</string>
       <key>settings</key>
       <dict>
-        <key>fontStyle</key>
-        <string>italic</string>
         <key>foreground</key>
-        <string>#FF8080</string>
+        <string>#0F8080</string>
       </dict>
     </dict>
     <dict>
