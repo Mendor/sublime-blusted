@@ -293,11 +293,11 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#00A8C6</string>
+        <string>#001525</string>
         <key>fontStyle</key>
-        <string></string>
+        <string>italic</string>
         <key>foreground</key>
-        <string>#F8F8F0</string>
+        <string>#657280</string>
       </dict>
     </dict>
     <dict>
