@@ -393,6 +393,40 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
       </dict>
     </dict>
 
+    <dict>
+      <key>name</key>
+      <string>diff.deleted</string>
+      <key>scope</key>
+      <string>markup.deleted</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#330000</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>diff.inserted</string>
+      <key>scope</key>
+      <string>markup.inserted</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#06320E</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>diff.changed</string>
+      <key>scope</key>
+      <string>markup.changed</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#561E9B</string>
+      </dict>
+    </dict>
+
   </array>
   <key>uuid</key>
   <string>5D3FCDD0-3C7C-11E2-81C1-0800200C9A66</string>
