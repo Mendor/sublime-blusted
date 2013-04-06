@@ -397,7 +397,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
       <key>name</key>
       <string>GitGutter deleted</string>
       <key>scope</key>
-      <string>gitgutter.deleted</string>
+      <string>markup.deleted.git_gutter</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -408,7 +408,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
       <key>name</key>
       <string>GitGutter inserted</string>
       <key>scope</key>
-      <string>gitgutter.inserted</string>
+      <string>markup.inserted.git_gutter</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -419,7 +419,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
       <key>name</key>
       <string>GitGutter changed</string>
       <key>scope</key>
-      <string>gitgutter.changed</string>
+      <string>markup.changed.git_gutter</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
