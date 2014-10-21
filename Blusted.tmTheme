@@ -427,6 +427,40 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
       </dict>
     </dict>
 
+    <dict>
+      <key>name</key>
+      <string>CSS ID selector</string>
+      <key>scope</key>
+      <string>entity.other.attribute-name.id.css</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#789ACD</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>CSS units</string>
+      <key>scope</key>
+      <string>keyword.other.unit.css</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#00D0FF</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>CSS units</string>
+      <key>scope</key>
+      <string>support.constant.property-value.css</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#00D0FF</string>
+      </dict>
+    </dict>
+
   </array>
   <key>uuid</key>
   <string>5D3FCDD0-3C7C-11E2-81C1-0800200C9A66</string>
